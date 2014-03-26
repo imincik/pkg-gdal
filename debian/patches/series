@@ -11,3 +11,4 @@ spatialite
 force-ruby1.8
 java.opt
 java-make
+spatialite-fix-slow-creation
