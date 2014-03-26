@@ -1,3 +1,10 @@
+gdal (1.10.1-1~precise1) precise; urgency=low
+
+  * New upstream version 1.10.1
+  * Adding patch for slow SpatiaLite DB creation fix (#5270) 
+
+ -- Ivan Mincik <ivan.mincik@gmail.com>  Wed, 26 Mar 2014 15:54:58 +0100
+
 gdal (1.10.0-1~precise1) precise; urgency=high
 
   * Launchpad build for Precise.
