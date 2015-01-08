@@ -1,4 +1,4 @@
-gdal (1.10.2-1~precise1) precise; urgency=medium
+gdal (1.10.1-2~precise1) precise; urgency=medium
 
   * Adding patch for Czechoslovak trasformation key support 
 
